@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm YOUR NAME!
+# 👋 Hi there, I'm Madhupa!
 
 Welcome to my GitHub profile!  
 I am passionate about **data science, machine learning, and web development**.  
@@ -44,8 +44,8 @@ I enjoy building tools and models that solve real-world problems.
 
 ## 🌟 Featured Projects
 
-- [🚀 Project 1](https://github.com/YOUR-USERNAME/PROJECT-1) – Short description of your project.
-- [🎨 Project 2](https://github.com/YOUR-USERNAME/PROJECT-2) – What it does in one line.
+- [🚀 Project 1](https://github.com/madhupa2000/CODSOFT) – Short description of your project.
+- [🎨 Project 2](https://github.com/madhupa2000/PROJECT-2) – What it does in one line.
 - [📊 Project 3](https://github.com/YOUR-USERNAME/PROJECT-3) – Why it’s special.
 
 ---
