@@ -48,9 +48,8 @@ I enjoy building tools and models that solve real-world problems.
   1. **Iris Flower Classification** – Random Forest Classifier with data visualization and confusion matrix.
   2. **Advertising Sales Prediction** – Linear Regression model to predict sales based on advertising budget.
   3. **IMDb Movie Rating Prediction** – Linear Regression on encoded categorical features to predict IMDb ratings.
-- [🎨 Project 2](https://github.com/madhupa2000/Text-Classification) – End-to-end SMS Spam Classification using NLP (tokenization, stemming, TF-IDF) and Naive Bayes achieving 97.9% accuracy.
-- [📊 Project 3](https://github.com/YOUR-USERNAME/PROJECT-3) – Why it’s special.
-
+- [🎨 Text Classification](https://github.com/madhupa2000/Text-classification) – End-to-end SMS Spam Classification using NLP (tokenization, stemming, TF-IDF) and Naive Bayes achieving 97.9% accuracy.
+- [🛳 Titanic Survival Prediction](https://github.com/madhupa2000/Titanic-survival-prediction) – Logistic Regression model predicting passenger survival with 81% accuracy after data cleaning and feature encoding.
 ---
 
 ## 🔗 Connect with Me
