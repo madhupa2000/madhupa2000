@@ -44,7 +44,10 @@ I enjoy building tools and models that solve real-world problems.
 
 ## 🌟 Featured Projects
 
-- [🚀 Project 1](https://github.com/madhupa2000/CODSOFT) – Short description of your project.
+- [🚀 CODSOFT](https://github.com/madhupa2000/CODSOFT) – Collection of 3 machine learning projects:
+  1. **Iris Flower Classification** – Random Forest Classifier with data visualization and confusion matrix.
+  2. **Advertising Sales Prediction** – Linear Regression model to predict sales based on advertising budget.
+  3. **IMDb Movie Rating Prediction** – Linear Regression on encoded categorical features to predict IMDb ratings.
 - [🎨 Project 2](https://github.com/madhupa2000/Text-Classification) – End-to-end SMS Spam Classification using NLP (tokenization, stemming, TF-IDF) and Naive Bayes achieving 97.9% accuracy.
 - [📊 Project 3](https://github.com/YOUR-USERNAME/PROJECT-3) – Why it’s special.
 
