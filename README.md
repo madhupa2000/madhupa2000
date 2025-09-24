@@ -30,17 +30,16 @@ I enjoy building tools and models that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhupa2000&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhupa2000&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=madhupa2000&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madhupa2000&theme=react-dark)
 
----
 
 ## 🌟 Featured Projects
 
@@ -52,10 +51,11 @@ I enjoy building tools and models that solve real-world problems.
 - [🛳 Titanic Survival Prediction](https://github.com/madhupa2000/Titanic-survival-prediction) – Logistic Regression model predicting passenger survival with 81% accuracy after data cleaning and feature encoding.
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 🔗 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhupa-vinod-64b467210)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhupavinod@gmail.com)
+
 
 ---
 
